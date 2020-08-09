@@ -31,4 +31,4 @@ appreciate a small write up of the observations and your thoughts to follow your
 process.
 ## Bonus points if you can design and create a microservice that will serve predictions of that model.
 
-![](POST VALUE.png)
+<img src='POST VALUE.png'>
