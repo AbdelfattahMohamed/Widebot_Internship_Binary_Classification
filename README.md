@@ -31,4 +31,5 @@ appreciate a small write up of the observations and your thoughts to follow your
 process.
 ## Bonus points if you can design and create a microservice that will serve predictions of that model.
 
-<img src='POST VALUE.png'>
+
+<img src="POST VALUE.png" width="48" height="48" alt="NOT FOUND IMAGE">
