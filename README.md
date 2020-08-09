@@ -1,10 +1,10 @@
-# Widebot-company_Internship
+# Internship
 
-Data Engineering, Data science &amp; Machine Learning
-Please find the details of the tasks below and create a Github repo per task then reply to
-this email with the links.
-Work as hard as you can and deliver the results you got by the deadline.
-Task 1 - Getting to Philosophy
+## Widebot Company
+
+Data science, Data Engineering & Machine Learning
+
+## Task 1 - Getting to Philosophy
 Please write a Python script to check the "Getting to Philosophy" law.
 https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
 Clicking on the first link in the main body of a Wikipedia article and repeating the process
@@ -21,7 +21,7 @@ Use a 0.5 second timeout between queries to avoid heavy load on Wikipedia (sleep
 from time module).
 You can use ​https://en.wikipedia.org/wiki/Special:Random​ to check this hypothesis at
 home.
-Task 2 - Binary Classification Problem
+## Task 2 - Binary Classification Problem
 Given the training and validation datasets, ​http://bit.ly/widebot-new-binclf-data​ , Create
 and train a machine learning model using the training set that performs well on the
 validation set. You should decide on the metrics of "performance" yourself, We will assess
@@ -29,7 +29,4 @@ your decision.
 It is up to you to use any of the following languages: [Python, Scala, Java, R]. We
 appreciate a small write up of the observations and your thoughts to follow your thought
 process.
-- Bonus points if you can design and create a microservice that will serve
-predictions of that model.
-We wish you enjoying the tasks.
-Thanks for your time and consideration.
+## Bonus points if you can design and create a microservice that will serve predictions of that model.
