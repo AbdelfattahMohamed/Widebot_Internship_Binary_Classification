@@ -30,6 +30,6 @@ It is up to you to use any of the following languages: [Python, Scala, Java, R].
 appreciate a small write up of the observations and your thoughts to follow your thought
 process.
 ## Bonus points if you can design and create a microservice that will serve predictions of that model.
-
+Image of running API on AdvancedRestClient
 
 <img src="api.PNG" alt="NOT FOUND IMAGE">
