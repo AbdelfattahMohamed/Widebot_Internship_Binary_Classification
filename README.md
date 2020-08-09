@@ -32,4 +32,4 @@ process.
 ## Bonus points if you can design and create a microservice that will serve predictions of that model.
 
 
-<img src="api.PNG" width="48" height="48" alt="NOT FOUND IMAGE">
+<img src="api.PNG" alt="NOT FOUND IMAGE">
